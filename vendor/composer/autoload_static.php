@@ -10,6 +10,7 @@ class ComposerStaticInita57a56e77a4876d8bb51001b52badb52
         'P' => 
         array (
             'Psr\\Log\\' => 8,
+            'PHPMailer\\PHPMailer\\' => 20,
         ),
         'E' => 
         array (
@@ -21,6 +22,10 @@ class ComposerStaticInita57a56e77a4876d8bb51001b52badb52
         'Psr\\Log\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/log/Psr/Log',
+        ),
+        'PHPMailer\\PHPMailer\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpmailer/phpmailer/src',
         ),
         'ElephantIO\\' => 
         array (

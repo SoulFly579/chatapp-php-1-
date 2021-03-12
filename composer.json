@@ -1,5 +1,6 @@
 {
     "require": {
-        "wisembly/elephant.io": "^3.3"
+        "wisembly/elephant.io": "^3.3",
+        "phpmailer/phpmailer": "^6.1"
     }
 }
